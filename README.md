@@ -9,4 +9,9 @@ AI or machine learning algorithms can be integrated to automatically detect dist
 
 The wearable device often uses GSM/SIM cards for sending distress alerts via SMS or calls. It may also use Wi-Fi or Bluetooth to connect to the internet or nearby smart devices for further actions.
 
-File Need to be Run:
+Files Need to be Run:
+(hardware Components)
+1.Arduino Code-IOT
+2.Emotion AI-main.py
+3.Website-  a.Loacation.sql(in Xampp)   
+            b.index.html
