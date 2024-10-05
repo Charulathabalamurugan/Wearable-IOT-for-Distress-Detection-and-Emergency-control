@@ -75,7 +75,7 @@ void SendLocationToServer(String LatLng) {
   delay(500);
 
   // Set the server URL (replace "localhost" with your actual domain/IP)
-  Serial.print("AT+HTTPPARA=\"URL\",\"http://localhost/location.php?latlng=");
+  Serial.print("AT+HTTPPARA=\"URL\",\"http://localhost/Website/store_location.php?latlng=");
   Serial.print(LatLng);
   Serial.println("\"");
   delay(500);
